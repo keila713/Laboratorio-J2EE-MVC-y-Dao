@@ -1,0 +1,12 @@
+body {
+  background: #F2F9F0;
+}
+
+h1, h3, h4, h5, h6 {
+    color: #405F99;
+}
+
+label {
+    color: #405F99;
+    font-weight: bold;
+}
